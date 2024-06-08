@@ -27,16 +27,61 @@ Al concluir el desarrollo de nuestro primer prototipo de la aplicación, superam
 
 <iframe  src="https://www.youtube.com/embed/LNkUfo6lnWY?si=7JTY2o8MAoIRLmYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-      <source src="../../../public/assets/coco+.mp4" type="video/mp4">
-      Tu navegador no admite el elemento de video.
-    </video>
-</div> -->
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: transparent;
+   
+  }
 
+  .content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
 
+   
 
-<!-- ### Documentación Backend
+  @media (max-width: 600px) {
+    .content {
+      margin: 10px;
+      padding: 15px;
+    }
 
-- -->
+    h2 {
+      font-size: 1.5rem;
+    }
 
+    h3 {
+      font-size: 1.25rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+
+    .video-container {
+      padding-bottom: 75%; /* 4:3 ratio */
+    }
+  }
+
+  @media (max-width: 320px) {
+    h2 {
+      font-size: 1.25rem;
+    }
+
+    h3 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.875rem;
+    }
+  }
+</style>

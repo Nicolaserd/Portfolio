@@ -113,3 +113,63 @@ El módulo `orders` gestiona los ordenes de la aplicación. Incluye los siguient
 - POST /orders: Crea una nueva orden.
 - PUT /orders/:id: Actualiza una orden específica por su ID.
 - DELETE /orders/:id: Elimina una orden específica por su ID.
+
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: transparent;
+   
+  }
+
+  .content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+   
+
+  @media (max-width: 600px) {
+    .content {
+      margin: 10px;
+      padding: 15px;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+
+    .video-container {
+      padding-bottom: 75%; /* 4:3 ratio */
+    }
+  }
+
+  @media (max-width: 320px) {
+    h2 {
+      font-size: 1.25rem;
+    }
+
+    h3 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.875rem;
+    }
+  }
+</style>
