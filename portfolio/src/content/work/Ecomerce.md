@@ -1,12 +1,12 @@
 ---
-title: Ecomerce/Backend
+title: Ecomerce
 publishDate: 2019-10-02 00:00:00
 img: /assets/stock-4.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   Se estructuró y desplegó un sitio web de comercio electrónico, implementando funciones de autenticación, utilizando contenedores Docker y desplegándolo en la plataforma Render.
 tags:
-  - E-comerce
+  - Backend
   - Nest
   - Auth 0
 ---
