@@ -2,7 +2,7 @@
 title: JCOFAITH
 publishDate: 2019-12-01 00:00:00
 img: /assets/stock-2.gif
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: JCOFAITH
 description: |
   Desarrollé un proyecto full stack para la iglesia JCOFAITH, adaptándome a usuarios no técnicos, respetando el presupuesto y asegurando la escalabilidad.
 tags:

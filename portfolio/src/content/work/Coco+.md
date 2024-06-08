@@ -2,7 +2,7 @@
 title: Coco +
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.gif
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: coco +
 description: |
   Desarrollamos una plataforma web para facilitar la conexión entre espacios de coworking y empresas, ofreciendo un ambiente colaborativo y flexible para el crecimiento empresarial.
 tags:
