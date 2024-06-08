@@ -25,12 +25,14 @@ Al concluir el desarrollo de nuestro primer prototipo de la aplicación, superam
 
 ### Video
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LNkUfo6lnWY?si=7JTY2o8MAoIRLmYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
       <source src="../../../public/assets/coco+.mp4" type="video/mp4">
       Tu navegador no admite el elemento de video.
     </video>
-</div>
+</div> -->
 
 
 
